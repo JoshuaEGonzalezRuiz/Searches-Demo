@@ -1,4 +1,4 @@
-# Searches
+# Searches Demo
 
 Project in which it is demonstrated how the route and navigation services work in the HERE SDK for Flutter (Navigate Edition) in its version 4.x.x
 
