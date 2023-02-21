@@ -1,5 +1,5 @@
 name: searches_demo
-description: Project in which it is demonstrated how the search service work in the HERE SDK for Flutter (Navigate Edition) in its version 4.9.x
+description: Project in which it is demonstrated how the search service work in the HERE SDK for Flutter (Navigate Edition) in its version 4.x.x
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
